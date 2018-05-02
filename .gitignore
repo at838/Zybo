@@ -1,0 +1,12 @@
+
+HLS/HelloWorld/.apc/autopilot.apfmapping
+HLS/HelloWorld/.cproject
+HLS/HelloWorld/.project
+HLS/HelloWorld/.settings/HelloWorld.Debug.launch
+HLS/HelloWorld/.settings/HelloWorld.Release.launch
+HLS/HelloWorld/HelloWorld
+HLS/HelloWorld/solution1/directives.tcl
+HLS/HelloWorld/solution1/script.tcl
+HLS/HelloWorld/solution1/solution1.aps
+HLS/HelloWorld/solution1/solution1.directive
+HLS/HelloWorld/vivado_hls.app
